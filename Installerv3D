@@ -1,0 +1,17 @@
+
+apt update && apt upgrade
+apt install git
+git clone https://github.com/nJAJAN6/installerv3
+cd installerv3
+sh instal.sh
+
+echo "==================================" | lolcat
+echo "== AUTHOR: n74nk'S03k4mt1       ==" | lolcat
+echo "== Fb    : Cireng Mangseg       ==" | lolcat
+echo "== Wa    : 083113867092         ==" | lolcat
+echo "== IG    :@N74NK'S03K4MT1       ==" | lolcat
+echo "==================================" | lolcat
+sleep 3
+echo "Gunakan Tools Ini Dgn baik" | lolcat
+echo "Coded by:n74nk's03k4mt1" | lolcat
+echo "thanks To: BarosSecurityTeam" | lolcat
